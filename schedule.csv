@@ -1,0 +1,31 @@
+day,period,time,subject
+Monday,Period 1,08:00 - 09:00,Physics
+Monday,Period 2,09:10 - 10:10,Chemistry
+Monday,Period 3,10:20 - 11:20,Python Programming
+Monday,Lunch,11:20 - 12:20,Lunch Break
+Monday,Period 4,12:20 - 13:20,Physical Education
+Monday,Period 5,13:30 - 14:30,Art
+Tuesday,Period 1,08:00 - 09:00,Physical Education
+Tuesday,Period 2,09:10 - 10:10,Physics
+Tuesday,Period 3,10:20 - 11:20,Mathematics
+Tuesday,Lunch,11:20 - 12:20,Lunch Break
+Tuesday,Period 4,12:20 - 13:20,Chemistry
+Tuesday,Period 5,13:30 - 14:30,Python Programming
+Wednesday,Period 1,08:00 - 09:00,English Literature
+Wednesday,Period 2,09:10 - 10:10,Physics
+Wednesday,Period 3,10:20 - 11:20,Chemistry
+Wednesday,Lunch,11:20 - 12:20,Lunch Break
+Wednesday,Period 4,12:20 - 13:20,Mathematics
+Wednesday,Period 5,13:30 - 14:30,Physical Education
+Thursday,Period 1,08:00 - 09:00,Physics
+Thursday,Period 2,09:10 - 10:10,Mathematics
+Thursday,Period 3,10:20 - 11:20,Chemistry
+Thursday,Lunch,11:20 - 12:20,Lunch Break
+Thursday,Period 4,12:20 - 13:20,Art
+Thursday,Period 5,13:30 - 14:30,History
+Friday,Period 1,08:00 - 09:00,History
+Friday,Period 2,09:10 - 10:10,Chemistry
+Friday,Period 3,10:20 - 11:20,English Literature
+Friday,Lunch,11:20 - 12:20,Lunch Break
+Friday,Period 4,12:20 - 13:20,Physics
+Friday,Period 5,13:30 - 14:30,Mathematics
